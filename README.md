@@ -34,8 +34,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=okazaki55&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Wakatime Stats
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=okazaki55)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Kendi hazırladığınız grafik/görsel -->
