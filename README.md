@@ -1,4 +1,6 @@
-## Hi there 👋
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there👋&textBg=false"/>
+</div>
 
 <!--
 **okazaki55/okazaki55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
